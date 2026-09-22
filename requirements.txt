@@ -1,0 +1,7 @@
+discord.py
+discord
+html2image
+pytz
+python-dotenv
+numpy
+pillow
