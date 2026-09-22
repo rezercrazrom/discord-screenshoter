@@ -1,4 +1,4 @@
-# Screenshot-Bot
+# Screenshot bot
 A Python (discord.py) Discord bot that creates embedded "screenshots" of messages in a specified channel once the original message reaches a set number of reactions. Features include customizable color, time zone, emoji, and reaction threshold, as well as slash command support.
 
 ## Mikhail Andreevich
@@ -19,3 +19,5 @@ Creates "screenshots" of messages in a dedicated channel once the original messa
 - Create a bot at [this site](https://discord.com/api), grant it all the necessary requested permissions, and generate a token.
 - Insert the token into the .env file, filling in the blank space in the "DISCORD_BOT_TOKEN=" line.
 - Launch the bot using the screenshot_bot.py file in any way you prefer.
+
+Also check out requirements.txt and install all needed packages.
