@@ -5,6 +5,8 @@ A Python (discord.py) Discord bot that creates embedded "screenshots" of message
 
 A Python Discord bot inspired by the "Miss Whimsical Wobin" bot from the NTTS server.
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+
 ### What it does
 Creates "screenshots" of messages in a dedicated channel once the original message reaches a specified number of reactions.
 
