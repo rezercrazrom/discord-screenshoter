@@ -4,12 +4,11 @@
      <p><i>A Python (discord.py) Discord bot that creates embedded "screenshots" of messages in a specified channel once the original message reaches a set number of reactions. Features include customizable color, time zone, emoji, and reaction threshold, as well as slash command support.</i></p>
    </div>
    
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 
-## What is it?
+## ❓ What is it?
 
 A Python Discord bot, named "Mikhail Andreevich", inspired by the "Miss Whimsical Wobin" bot from the NTTS server.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 
 Mikhail creates "screenshots" of messages in a dedicated channel once the original message reaches a specified number of reactions.
 
