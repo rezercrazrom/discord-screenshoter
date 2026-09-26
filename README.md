@@ -30,11 +30,13 @@ Also check out requirements.txt and install all needed packages.
 
 Let's put on requirements skull emoji and 1 reaction threshold ->
 
+<>
+
 Then write message:
 
 <img width="506" height="461" alt="image" src="https://github.com/user-attachments/assets/1e51b5c7-388a-4bda-9ff4-13526aca8927" />
 
-Now, bot makes screenshot using HTML ->
+Now, after original message takes reaction, bot makes screenshot using HTML ->
 
 <img width="549" height="413" alt="image" src="https://github.com/user-attachments/assets/fc733227-cf12-4a4b-bc88-6bdc1ad5e13d" />
 
