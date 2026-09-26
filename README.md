@@ -8,23 +8,25 @@ A Python Discord bot inspired by the "Miss Whimsical Wobin" bot from the NTTS se
 ### What it does
 Creates "screenshots" of messages in a dedicated channel once the original message reaches a specified number of reactions.
 
-### Features
+### ✨ Features
 - customizable reaction emoji;
 - configurable reaction threshold;
 - customizable embed color;
 - timezone-aware timestamp display;
 - slash commands.
 
-### For proper operation:
+### 🚀 Quick Start
 - Create a bot at [this site](https://discord.com/api), grant it all the necessary requested permissions, and generate a token.
 - Insert the token into the .env file, filling in the blank space in the "DISCORD_BOT_TOKEN=" line.
 - Launch the bot using the screenshot_bot.py file in any way you prefer.
 
 Also check out requirements.txt and install all needed packages.
 
-## Example of work 
+## 🧩 Demo
 
-Let's put on requirements skull emoji and 1 reaction threshold, then write message:
+Let's put on requirements skull emoji and 1 reaction threshold ->
+
+Then write message:
 
 <img width="506" height="461" alt="image" src="https://github.com/user-attachments/assets/1e51b5c7-388a-4bda-9ff4-13526aca8927" />
 
