@@ -22,7 +22,9 @@ Creates "screenshots" of messages in a dedicated channel once the original messa
 
 Also check out requirements.txt and install all needed packages.
 
-Example of work with skull empji and 1 reaction threshold:
+## Example of work 
+
+Let's put on requirements skull emoji and 1 reaction threshold, then write message:
 
 <img width="506" height="461" alt="image" src="https://github.com/user-attachments/assets/1e51b5c7-388a-4bda-9ff4-13526aca8927" />
 
