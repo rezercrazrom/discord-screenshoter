@@ -1,9 +1,9 @@
-  ```html
+
    <div align="center">
      <h1>📸 Discord Screenshot Bot</h1>
      <p><i>A Python (discord.py) Discord bot that creates embedded "screenshots" of messages in a specified channel once the original message reaches a set number of reactions. Features include customizable color, time zone, emoji, and reaction threshold, as well as slash command support.</i></p>
    </div>
-   ```
+   
 
 ## What is it?
 
