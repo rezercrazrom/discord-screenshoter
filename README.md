@@ -30,7 +30,7 @@ Also check out requirements.txt and install all needed packages.
 
 Let's put on requirements skull emoji and 1 reaction threshold ->
 
-<img width="294" height="101" alt="image" src="https://github.com/user-attachments/assets/71b3a1a8-bf6c-4d0b-aa31-56642126e6a8" />
+<img width="293" height="91" alt="image" src="https://github.com/user-attachments/assets/36439d3d-a46e-49c3-b6cd-794dd025f513" />
 <img width="292" height="92" alt="image" src="https://github.com/user-attachments/assets/fa2b4be7-30e5-45fb-b57c-a095e099d3dc" />
 
 Then write message:
