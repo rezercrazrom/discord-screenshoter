@@ -7,6 +7,8 @@ from screenshot_bot_db import db
 
 load_dotenv()
 
+sys.modules.setdefault('screenshot_bot', sys.modules[__name__])
+
 intents = discord.Intents.default()
 intents.messages = True
 intents.reactions = True
