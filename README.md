@@ -25,11 +25,20 @@ It was inspired by **Miss Whimsical Wobin** on the **NTTS** Discord server — a
 
 ## Demo
 
-| Step | Preview |
-|------|---------|
-| 1. Add a reaction to a message | <img width="506" height="461" alt="image" src="https://github.com/user-attachments/assets/1e51b5c7-388a-4bda-9ff4-13526aca8927" /> |
-| 2. Bot processes the message | <img width="947" height="181" alt="image" src="https://github.com/user-attachments/assets/1adb7d37-aba7-485f-98f8-7e353e5260e5" /> |
-| 3. Screenshot is sent back | <img width="549" height="413" alt="image" src="https://github.com/user-attachments/assets/fc733227-cf12-4a4b-bc88-6bdc1ad5e13d" /> |
+Let's try make screenshot using skull emoji as reaction trigger with threshold value equal to 1 ->
+
+<img width="294" height="94" alt="image" src="https://github.com/user-attachments/assets/05487e73-44a0-4e02-a618-58fe1b8182e1" />
+<img width="292" height="92" alt="image" src="https://github.com/user-attachments/assets/0d6728cd-57a0-40ff-82e2-64a541f89ea1" />
+
+
+Then, write message and add a reaction:
+
+<img width="506" height="461" alt="image" src="https://github.com/user-attachments/assets/1e51b5c7-388a-4bda-9ff4-13526aca8927" />
+
+
+Bot sending back screenshot of massage using HTML -> 
+
+<img width="549" height="413" alt="image" src="https://github.com/user-attachments/assets/fc733227-cf12-4a4b-bc88-6bdc1ad5e13d" />
 
 ---
 
