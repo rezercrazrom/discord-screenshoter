@@ -47,20 +47,8 @@ def smart_crop(image_path, output_path, padding=20, threshold=25,
     top = max(0, int(rows_with_content[0]) - padding)
     bottom = min(height, int(rows_with_content[-1]) + padding)
 
-    # Горизонтальная обрезка (столбцы) — только если crop_right=True
-    left = 0
-    right = width
-
-    if crop_right:
-        col_threshold = max(min_content_pixels, height // 40)
-        col_content_counts = np.sum(mask, axis=0)
-        cols_with_content = np.where(col_content_counts > col_threshold)[0]
-        if len(cols_with_content) > 0:
-            right = min(width, int(cols_with_content[-1]) + right_padding)
-
     cropped = img.crop((left, top, right, bottom))
     cropped.save(output_path)
 
-    print(f"✅ Обрезано: {height}px → {bottom - top}px (верх={top}, низ={bottom})"
-          + (f", справа: {width}px → {right}px" if crop_right else ""))
+    print(f"✅ Обрезано: {height}px → {bottom - top}px (верх={top}, низ={bottom})")
     return cropped
